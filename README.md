@@ -17,3 +17,6 @@ This project provides a utility to insert images into a PowerPoint presentation 
 2. Install the required libraries:
    ```sh
    pip install -r requirements.txt
+3. Run the example script to generate sample PowerPoint presentations:
+   ```sh
+   python example.py
