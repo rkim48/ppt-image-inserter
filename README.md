@@ -20,3 +20,9 @@ This project provides a utility to insert images into a PowerPoint presentation 
 3. Run the example script to generate sample PowerPoint presentations:
    ```sh
    python example.py
+
+Example slides:
+
+<img src="docs/images/slide1.png" alt="Slide 1" width="500"/> <img src="docs/images/slide2.png" alt="Slide 2" width="500"/>
+
+
