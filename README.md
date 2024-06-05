@@ -23,6 +23,7 @@ This project provides a utility to insert images into a PowerPoint presentation 
 
 Example slides:
 
-<img src="docs/images/slide1.png" alt="Slide 1" width="500"/> <img src="docs/images/slide2.png" alt="Slide 2" width="500"/>
+<img src="docs/images/slide1.png" alt="Slide 1" width="800"/> 
+<img src="docs/images/slide2.png" alt="Slide 2" width="800"/>
 
 
