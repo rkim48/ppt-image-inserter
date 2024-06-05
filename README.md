@@ -12,7 +12,7 @@ This project provides a utility to insert images into a PowerPoint presentation 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/ppt-image-inserter.git
+   git clone https://github.com/rkim48/ppt-image-inserter.git
    cd ppt-image-inserter
 2. Install the required libraries:
    ```sh
